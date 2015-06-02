@@ -1,0 +1,23 @@
+
+#second {
+	font-size: 20px;
+	color: rgb(255, 255, 255);
+}
+
+#first {
+	text-decoration: underline;
+	text-align: center;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#highlighted {
+	font-family: "Times New Roman", monospace;
+}
+
+body {
+	background: url("../images/bird.jpg") 
+	no-repeat center center fixed;
+
